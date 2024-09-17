@@ -1,0 +1,15 @@
+C:\Users\230120\Downloads\Lampe_MathiasS_6TTI\obj\Debug\net6.0\Lampe_MathiasS_6TTI.csproj.AssemblyReference.cache
+C:\Users\230120\Downloads\Lampe_MathiasS_6TTI\obj\Debug\net6.0\Lampe_MathiasS_6TTI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\230120\Downloads\Lampe_MathiasS_6TTI\obj\Debug\net6.0\Lampe_MathiasS_6TTI.AssemblyInfoInputs.cache
+C:\Users\230120\Downloads\Lampe_MathiasS_6TTI\obj\Debug\net6.0\Lampe_MathiasS_6TTI.AssemblyInfo.cs
+C:\Users\230120\Downloads\Lampe_MathiasS_6TTI\obj\Debug\net6.0\Lampe_MathiasS_6TTI.csproj.CoreCompileInputs.cache
+C:\Users\230120\Downloads\Lampe_MathiasS_6TTI\bin\Debug\net6.0\Lampe_MathiasS_6TTI.exe
+C:\Users\230120\Downloads\Lampe_MathiasS_6TTI\bin\Debug\net6.0\Lampe_MathiasS_6TTI.deps.json
+C:\Users\230120\Downloads\Lampe_MathiasS_6TTI\bin\Debug\net6.0\Lampe_MathiasS_6TTI.runtimeconfig.json
+C:\Users\230120\Downloads\Lampe_MathiasS_6TTI\bin\Debug\net6.0\Lampe_MathiasS_6TTI.dll
+C:\Users\230120\Downloads\Lampe_MathiasS_6TTI\bin\Debug\net6.0\Lampe_MathiasS_6TTI.pdb
+C:\Users\230120\Downloads\Lampe_MathiasS_6TTI\obj\Debug\net6.0\Lampe_MathiasS_6TTI.dll
+C:\Users\230120\Downloads\Lampe_MathiasS_6TTI\obj\Debug\net6.0\refint\Lampe_MathiasS_6TTI.dll
+C:\Users\230120\Downloads\Lampe_MathiasS_6TTI\obj\Debug\net6.0\Lampe_MathiasS_6TTI.pdb
+C:\Users\230120\Downloads\Lampe_MathiasS_6TTI\obj\Debug\net6.0\Lampe_MathiasS_6TTI.genruntimeconfig.cache
+C:\Users\230120\Downloads\Lampe_MathiasS_6TTI\obj\Debug\net6.0\ref\Lampe_MathiasS_6TTI.dll
