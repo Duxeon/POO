@@ -8,9 +8,9 @@ namespace POO_MathiasS_Act2._2
 {
     internal class Cercle
     {
-        private int _rayon;
+        private double _rayon;
 
-        public Cercle(int rayon)
+        public Cercle(double rayon)
         {
             _rayon = rayon;
         }
