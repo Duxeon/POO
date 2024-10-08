@@ -1,0 +1,15 @@
+C:\Users\Duxéon\Documents\POO\Act2\POO_Mathias_Act2Uni\bin\Debug\net6.0\POO_Mathias_Act2Uni.exe
+C:\Users\Duxéon\Documents\POO\Act2\POO_Mathias_Act2Uni\bin\Debug\net6.0\POO_Mathias_Act2Uni.deps.json
+C:\Users\Duxéon\Documents\POO\Act2\POO_Mathias_Act2Uni\bin\Debug\net6.0\POO_Mathias_Act2Uni.runtimeconfig.json
+C:\Users\Duxéon\Documents\POO\Act2\POO_Mathias_Act2Uni\bin\Debug\net6.0\POO_Mathias_Act2Uni.dll
+C:\Users\Duxéon\Documents\POO\Act2\POO_Mathias_Act2Uni\bin\Debug\net6.0\POO_Mathias_Act2Uni.pdb
+C:\Users\Duxéon\Documents\POO\Act2\POO_Mathias_Act2Uni\obj\Debug\net6.0\POO_Mathias_Act2Uni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Duxéon\Documents\POO\Act2\POO_Mathias_Act2Uni\obj\Debug\net6.0\POO_Mathias_Act2Uni.AssemblyInfoInputs.cache
+C:\Users\Duxéon\Documents\POO\Act2\POO_Mathias_Act2Uni\obj\Debug\net6.0\POO_Mathias_Act2Uni.AssemblyInfo.cs
+C:\Users\Duxéon\Documents\POO\Act2\POO_Mathias_Act2Uni\obj\Debug\net6.0\POO_Mathias_Act2Uni.csproj.CoreCompileInputs.cache
+C:\Users\Duxéon\Documents\POO\Act2\POO_Mathias_Act2Uni\obj\Debug\net6.0\POO_Mathias_Act2Uni.sourcelink.json
+C:\Users\Duxéon\Documents\POO\Act2\POO_Mathias_Act2Uni\obj\Debug\net6.0\POO_Mathias_Act2Uni.dll
+C:\Users\Duxéon\Documents\POO\Act2\POO_Mathias_Act2Uni\obj\Debug\net6.0\refint\POO_Mathias_Act2Uni.dll
+C:\Users\Duxéon\Documents\POO\Act2\POO_Mathias_Act2Uni\obj\Debug\net6.0\POO_Mathias_Act2Uni.pdb
+C:\Users\Duxéon\Documents\POO\Act2\POO_Mathias_Act2Uni\obj\Debug\net6.0\POO_Mathias_Act2Uni.genruntimeconfig.cache
+C:\Users\Duxéon\Documents\POO\Act2\POO_Mathias_Act2Uni\obj\Debug\net6.0\ref\POO_Mathias_Act2Uni.dll
