@@ -13,14 +13,15 @@ namespace POO_Mathias_Act2._2
 
         public double Reel
         {
-            get; 
-            set;
+            get { return _reel; }
+            set { _reel = value; }
         }
 
         public double Imaginaire
         {
-            get;
-            set;
+            get { return (_imaginaire); }
+            set { _imaginaire = value; }
+            
         }
 
         public complexe(double reel, double imaginaire)
@@ -37,6 +38,12 @@ namespace POO_Mathias_Act2._2
         public double Module()
         {
             return (Math.Sqrt((_reel*_reel)+(_imaginaire*_imaginaire)));
+        }
+
+        public void Addition(complexe c)
+        {
+            _reel = c.Reel + _reel;
+            _imaginaire = c.Imaginaire + _imaginaire;
         }
     }
 }

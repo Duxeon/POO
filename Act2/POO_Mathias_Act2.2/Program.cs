@@ -34,10 +34,13 @@
 
                 Array.Resize(ref c, c.Length + 1);
 
-                c[0] = new complexe(r, i);
+                c[1] = new complexe(r, i);
 
-                Console.WriteLine("Le second nombre complexe : " + c[0].AfficheComplexe() + " a pour module " + c[0].Module());
+                Console.WriteLine("Le second nombre complexe : " + c[1].AfficheComplexe() + " a pour module " + c[1].Module());
+                c[0].Addition(c[1]);
+
                 Console.WriteLine("");
+                Console.WriteLine("La somme des deux complexe : " + c[0].AfficheComplexe() + " a pour module " + c[0].Module());
                 Console.WriteLine("");
             }
         }
