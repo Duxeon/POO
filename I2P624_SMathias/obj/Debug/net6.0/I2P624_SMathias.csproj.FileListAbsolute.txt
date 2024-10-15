@@ -1,0 +1,14 @@
+C:\Users\Duxéon\source\repos\I2P624_SMathias\bin\Debug\net6.0\I2P624_SMathias.exe
+C:\Users\Duxéon\source\repos\I2P624_SMathias\bin\Debug\net6.0\I2P624_SMathias.deps.json
+C:\Users\Duxéon\source\repos\I2P624_SMathias\bin\Debug\net6.0\I2P624_SMathias.runtimeconfig.json
+C:\Users\Duxéon\source\repos\I2P624_SMathias\bin\Debug\net6.0\I2P624_SMathias.dll
+C:\Users\Duxéon\source\repos\I2P624_SMathias\bin\Debug\net6.0\I2P624_SMathias.pdb
+C:\Users\Duxéon\source\repos\I2P624_SMathias\obj\Debug\net6.0\I2P624_SMathias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Duxéon\source\repos\I2P624_SMathias\obj\Debug\net6.0\I2P624_SMathias.AssemblyInfoInputs.cache
+C:\Users\Duxéon\source\repos\I2P624_SMathias\obj\Debug\net6.0\I2P624_SMathias.AssemblyInfo.cs
+C:\Users\Duxéon\source\repos\I2P624_SMathias\obj\Debug\net6.0\I2P624_SMathias.csproj.CoreCompileInputs.cache
+C:\Users\Duxéon\source\repos\I2P624_SMathias\obj\Debug\net6.0\I2P624_SMathias.dll
+C:\Users\Duxéon\source\repos\I2P624_SMathias\obj\Debug\net6.0\refint\I2P624_SMathias.dll
+C:\Users\Duxéon\source\repos\I2P624_SMathias\obj\Debug\net6.0\I2P624_SMathias.pdb
+C:\Users\Duxéon\source\repos\I2P624_SMathias\obj\Debug\net6.0\I2P624_SMathias.genruntimeconfig.cache
+C:\Users\Duxéon\source\repos\I2P624_SMathias\obj\Debug\net6.0\ref\I2P624_SMathias.dll
