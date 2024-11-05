@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dux\u00E9on\\Documents\\POO\\Act6_Heritage_MathiasS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B2B7BC4-0A04-4C8A-B4BC-9B7F005A3891}|Act6_Heritage_MathiasS.csproj|c:\\users\\dux\u00E9on\\documents\\poo\\act6_heritage_mathiass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B2B7BC4-0A04-4C8A-B4BC-9B7F005A3891}|Act6_Heritage_MathiasS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B2B7BC4-0A04-4C8A-B4BC-9B7F005A3891}|Act6_Heritage_MathiasS.csproj|c:\\users\\dux\u00E9on\\documents\\poo\\act6_heritage_mathiass\\voiture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B2B7BC4-0A04-4C8A-B4BC-9B7F005A3891}|Act6_Heritage_MathiasS.csproj|solutionrelative:voiture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B2B7BC4-0A04-4C8A-B4BC-9B7F005A3891}|Act6_Heritage_MathiasS.csproj|c:\\users\\dux\u00E9on\\documents\\poo\\act6_heritage_mathiass\\velo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B2B7BC4-0A04-4C8A-B4BC-9B7F005A3891}|Act6_Heritage_MathiasS.csproj|solutionrelative:velo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B2B7BC4-0A04-4C8A-B4BC-9B7F005A3891}|Act6_Heritage_MathiasS.csproj|c:\\users\\dux\u00E9on\\documents\\poo\\act6_heritage_mathiass\\vehicule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B2B7BC4-0A04-4C8A-B4BC-9B7F005A3891}|Act6_Heritage_MathiasS.csproj|solutionrelative:vehicule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Velo.cs",
+              "DocumentMoniker": "C:\\Users\\Dux\u00E9on\\Documents\\POO\\Act6_Heritage_MathiasS\\Velo.cs",
+              "RelativeDocumentMoniker": "Velo.cs",
+              "ToolTip": "C:\\Users\\Dux\u00E9on\\Documents\\POO\\Act6_Heritage_MathiasS\\Velo.cs",
+              "RelativeToolTip": "Velo.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAqwBgAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T10:19:17.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Voiture.cs",
+              "DocumentMoniker": "C:\\Users\\Dux\u00E9on\\Documents\\POO\\Act6_Heritage_MathiasS\\Voiture.cs",
+              "RelativeDocumentMoniker": "Voiture.cs",
+              "ToolTip": "C:\\Users\\Dux\u00E9on\\Documents\\POO\\Act6_Heritage_MathiasS\\Voiture.cs",
+              "RelativeToolTip": "Voiture.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAUwCQAAACfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T10:07:29.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Vehicule.cs",
+              "DocumentMoniker": "C:\\Users\\Dux\u00E9on\\Documents\\POO\\Act6_Heritage_MathiasS\\Vehicule.cs",
+              "RelativeDocumentMoniker": "Vehicule.cs",
+              "ToolTip": "C:\\Users\\Dux\u00E9on\\Documents\\POO\\Act6_Heritage_MathiasS\\Vehicule.cs",
+              "RelativeToolTip": "Vehicule.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAADwvzIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T10:00:25.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dux\u00E9on\\Documents\\POO\\Act6_Heritage_MathiasS\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Dux\u00E9on\\Documents\\POO\\Act6_Heritage_MathiasS\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T09:58:41.518Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

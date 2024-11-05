@@ -1,0 +1,15 @@
+C:\Users\Duxéon\Documents\POO\Act6_Heritage_MathiasS\bin\Debug\net6.0\Act6_Heritage_MathiasS.exe
+C:\Users\Duxéon\Documents\POO\Act6_Heritage_MathiasS\bin\Debug\net6.0\Act6_Heritage_MathiasS.deps.json
+C:\Users\Duxéon\Documents\POO\Act6_Heritage_MathiasS\bin\Debug\net6.0\Act6_Heritage_MathiasS.runtimeconfig.json
+C:\Users\Duxéon\Documents\POO\Act6_Heritage_MathiasS\bin\Debug\net6.0\Act6_Heritage_MathiasS.dll
+C:\Users\Duxéon\Documents\POO\Act6_Heritage_MathiasS\bin\Debug\net6.0\Act6_Heritage_MathiasS.pdb
+C:\Users\Duxéon\Documents\POO\Act6_Heritage_MathiasS\obj\Debug\net6.0\Act6_Heritage_MathiasS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Duxéon\Documents\POO\Act6_Heritage_MathiasS\obj\Debug\net6.0\Act6_Heritage_MathiasS.AssemblyInfoInputs.cache
+C:\Users\Duxéon\Documents\POO\Act6_Heritage_MathiasS\obj\Debug\net6.0\Act6_Heritage_MathiasS.AssemblyInfo.cs
+C:\Users\Duxéon\Documents\POO\Act6_Heritage_MathiasS\obj\Debug\net6.0\Act6_Heritage_MathiasS.csproj.CoreCompileInputs.cache
+C:\Users\Duxéon\Documents\POO\Act6_Heritage_MathiasS\obj\Debug\net6.0\Act6_Heritage_MathiasS.sourcelink.json
+C:\Users\Duxéon\Documents\POO\Act6_Heritage_MathiasS\obj\Debug\net6.0\Act6_Heritage_MathiasS.dll
+C:\Users\Duxéon\Documents\POO\Act6_Heritage_MathiasS\obj\Debug\net6.0\refint\Act6_Heritage_MathiasS.dll
+C:\Users\Duxéon\Documents\POO\Act6_Heritage_MathiasS\obj\Debug\net6.0\Act6_Heritage_MathiasS.pdb
+C:\Users\Duxéon\Documents\POO\Act6_Heritage_MathiasS\obj\Debug\net6.0\Act6_Heritage_MathiasS.genruntimeconfig.cache
+C:\Users\Duxéon\Documents\POO\Act6_Heritage_MathiasS\obj\Debug\net6.0\ref\Act6_Heritage_MathiasS.dll
