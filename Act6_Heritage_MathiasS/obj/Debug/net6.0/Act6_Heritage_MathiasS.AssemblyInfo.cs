@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Act6_Heritage_MathiasS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fbe4952d31590ba87d2de435f363f9120f38aa31")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+09b15eb6da2a15adcd7962b80aba728d7668d9b1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Act6_Heritage_MathiasS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Act6_Heritage_MathiasS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
