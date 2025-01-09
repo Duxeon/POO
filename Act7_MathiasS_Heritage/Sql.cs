@@ -6,7 +6,7 @@ namespace Act7_MathiasS_Heritage
 {
     internal class Sql
     {
-        private static MySqlConnection sql = new MySqlConnection("server=10.10.51.98;database=immo ;port=3306;User Id=mathias;password=root");
+        private static MySqlConnection sql = new MySqlConnection("server=localhost;database=test ;port=3306;User Id=root;password=root");
         
         public void CatchUser(ref DataSet infos)
         {
