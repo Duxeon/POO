@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Act10_POO_MathiasS_Biblioteque_Bis")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ab7f5912a49712d3544ac0ff982abf8c42f47a3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e35b70ef72a7b40582572bbc8aa41aad45c4bc5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Act10_POO_MathiasS_Biblioteque_Bis")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Act10_POO_MathiasS_Biblioteque_Bis")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,15 @@
+C:\Users\Duxéon\Documents\POO\Act10_POO_MathiasS_Biblioteque_Bis\bin\Debug\net6.0\Act10_POO_MathiasS_Biblioteque_Bis.exe
+C:\Users\Duxéon\Documents\POO\Act10_POO_MathiasS_Biblioteque_Bis\bin\Debug\net6.0\Act10_POO_MathiasS_Biblioteque_Bis.deps.json
+C:\Users\Duxéon\Documents\POO\Act10_POO_MathiasS_Biblioteque_Bis\bin\Debug\net6.0\Act10_POO_MathiasS_Biblioteque_Bis.runtimeconfig.json
+C:\Users\Duxéon\Documents\POO\Act10_POO_MathiasS_Biblioteque_Bis\bin\Debug\net6.0\Act10_POO_MathiasS_Biblioteque_Bis.dll
+C:\Users\Duxéon\Documents\POO\Act10_POO_MathiasS_Biblioteque_Bis\bin\Debug\net6.0\Act10_POO_MathiasS_Biblioteque_Bis.pdb
+C:\Users\Duxéon\Documents\POO\Act10_POO_MathiasS_Biblioteque_Bis\obj\Debug\net6.0\Act10_POO_MathiasS_Biblioteque_Bis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Duxéon\Documents\POO\Act10_POO_MathiasS_Biblioteque_Bis\obj\Debug\net6.0\Act10_POO_MathiasS_Biblioteque_Bis.AssemblyInfoInputs.cache
+C:\Users\Duxéon\Documents\POO\Act10_POO_MathiasS_Biblioteque_Bis\obj\Debug\net6.0\Act10_POO_MathiasS_Biblioteque_Bis.AssemblyInfo.cs
+C:\Users\Duxéon\Documents\POO\Act10_POO_MathiasS_Biblioteque_Bis\obj\Debug\net6.0\Act10_POO_MathiasS_Biblioteque_Bis.csproj.CoreCompileInputs.cache
+C:\Users\Duxéon\Documents\POO\Act10_POO_MathiasS_Biblioteque_Bis\obj\Debug\net6.0\Act10_POO_MathiasS_Biblioteque_Bis.sourcelink.json
+C:\Users\Duxéon\Documents\POO\Act10_POO_MathiasS_Biblioteque_Bis\obj\Debug\net6.0\Act10_POO_MathiasS_Biblioteque_Bis.dll
+C:\Users\Duxéon\Documents\POO\Act10_POO_MathiasS_Biblioteque_Bis\obj\Debug\net6.0\refint\Act10_POO_MathiasS_Biblioteque_Bis.dll
+C:\Users\Duxéon\Documents\POO\Act10_POO_MathiasS_Biblioteque_Bis\obj\Debug\net6.0\Act10_POO_MathiasS_Biblioteque_Bis.pdb
+C:\Users\Duxéon\Documents\POO\Act10_POO_MathiasS_Biblioteque_Bis\obj\Debug\net6.0\Act10_POO_MathiasS_Biblioteque_Bis.genruntimeconfig.cache
+C:\Users\Duxéon\Documents\POO\Act10_POO_MathiasS_Biblioteque_Bis\obj\Debug\net6.0\ref\Act10_POO_MathiasS_Biblioteque_Bis.dll

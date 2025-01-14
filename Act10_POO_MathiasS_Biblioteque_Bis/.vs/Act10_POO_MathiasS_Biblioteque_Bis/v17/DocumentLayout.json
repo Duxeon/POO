@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{E1EA0358-E76B-4C18-BF99-08FFACAEB8DA}|Act10_POO_MathiasS_Biblioteque_Bis.csproj|c:\\users\\dux\u00E9on\\documents\\poo\\act10_poo_mathiass_biblioteque_bis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1EA0358-E76B-4C18-BF99-08FFACAEB8DA}|Act10_POO_MathiasS_Biblioteque_Bis.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1EA0358-E76B-4C18-BF99-08FFACAEB8DA}|Act10_POO_MathiasS_Biblioteque_Bis.csproj|c:\\users\\dux\u00E9on\\documents\\poo\\act10_poo_mathiass_biblioteque_bis\\emprun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1EA0358-E76B-4C18-BF99-08FFACAEB8DA}|Act10_POO_MathiasS_Biblioteque_Bis.csproj|solutionrelative:emprun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Emprun.cs",
+              "DocumentMoniker": "C:\\Users\\Dux\u00E9on\\Documents\\POO\\Act10_POO_MathiasS_Biblioteque_Bis\\Emprun.cs",
+              "RelativeDocumentMoniker": "Emprun.cs",
+              "ToolTip": "C:\\Users\\Dux\u00E9on\\Documents\\POO\\Act10_POO_MathiasS_Biblioteque_Bis\\Emprun.cs",
+              "RelativeToolTip": "Emprun.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwDwAAACkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T09:20:38.407Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +41,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Dux\u00E9on\\Documents\\POO\\Act10_POO_MathiasS_Biblioteque_Bis\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAUwK4AAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-14T09:15:12.403Z",
               "EditorCaption": ""
