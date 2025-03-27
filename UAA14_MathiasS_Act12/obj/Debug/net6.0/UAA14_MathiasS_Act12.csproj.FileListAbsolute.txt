@@ -1,0 +1,15 @@
+C:\Users\Duxéon\Documents\POO\UAA14_MathiasS_Act12\obj\Debug\net6.0\UAA14_MathiasS_Act12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Duxéon\Documents\POO\UAA14_MathiasS_Act12\obj\Debug\net6.0\UAA14_MathiasS_Act12.AssemblyInfoInputs.cache
+C:\Users\Duxéon\Documents\POO\UAA14_MathiasS_Act12\obj\Debug\net6.0\UAA14_MathiasS_Act12.AssemblyInfo.cs
+C:\Users\Duxéon\Documents\POO\UAA14_MathiasS_Act12\obj\Debug\net6.0\UAA14_MathiasS_Act12.csproj.CoreCompileInputs.cache
+C:\Users\Duxéon\Documents\POO\UAA14_MathiasS_Act12\obj\Debug\net6.0\UAA14_MathiasS_Act12.sourcelink.json
+C:\Users\Duxéon\Documents\POO\UAA14_MathiasS_Act12\bin\Debug\net6.0\UAA14_MathiasS_Act12.exe
+C:\Users\Duxéon\Documents\POO\UAA14_MathiasS_Act12\bin\Debug\net6.0\UAA14_MathiasS_Act12.deps.json
+C:\Users\Duxéon\Documents\POO\UAA14_MathiasS_Act12\bin\Debug\net6.0\UAA14_MathiasS_Act12.runtimeconfig.json
+C:\Users\Duxéon\Documents\POO\UAA14_MathiasS_Act12\bin\Debug\net6.0\UAA14_MathiasS_Act12.dll
+C:\Users\Duxéon\Documents\POO\UAA14_MathiasS_Act12\bin\Debug\net6.0\UAA14_MathiasS_Act12.pdb
+C:\Users\Duxéon\Documents\POO\UAA14_MathiasS_Act12\obj\Debug\net6.0\UAA14_MathiasS_Act12.dll
+C:\Users\Duxéon\Documents\POO\UAA14_MathiasS_Act12\obj\Debug\net6.0\refint\UAA14_MathiasS_Act12.dll
+C:\Users\Duxéon\Documents\POO\UAA14_MathiasS_Act12\obj\Debug\net6.0\UAA14_MathiasS_Act12.pdb
+C:\Users\Duxéon\Documents\POO\UAA14_MathiasS_Act12\obj\Debug\net6.0\UAA14_MathiasS_Act12.genruntimeconfig.cache
+C:\Users\Duxéon\Documents\POO\UAA14_MathiasS_Act12\obj\Debug\net6.0\ref\UAA14_MathiasS_Act12.dll

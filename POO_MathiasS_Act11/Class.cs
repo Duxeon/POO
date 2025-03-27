@@ -16,7 +16,11 @@ namespace POO_MathiasS_Act11
         {
             get { return _nom; }
         }
-        Academie(string nom)
+        public List<Ecole> ListeEcole
+        {
+            get { return _listeEcole; }
+        }
+        public Academie(string nom)
         {
             _nom = nom;
             _listeEcole = new List<Ecole>();
@@ -49,6 +53,10 @@ namespace POO_MathiasS_Act11
         public string SiteInternet
         {
             get { return _siteInternet; }
+        }
+        public List<Departement> ListeDepartement
+        {
+            get { return _listeDepartement; }
         }
 
         public Ecole(string code, string site)
@@ -87,6 +95,10 @@ namespace POO_MathiasS_Act11
         {
             get { return _matiere; }
         }
+        public List<Enseignant> ListeEnseignants
+        {
+            get { return _listeEnseignants; }
+        }
 
         public Departement(string nom, string matiere)
         {
@@ -102,15 +114,19 @@ namespace POO_MathiasS_Act11
     }
     internal class Enseignant : Individu
     {
-        DateOnly _datePriseFonction;
+        string _datePriseFonction;
         List<Cours> _listeCours;
 
-        public Enseignant(DateOnly date, string nom, string prenom, string email, string telephone) : base(nom,  prenom,  email,  telephone)
+        public Enseignant(string date, string nom, string prenom, string email, string telephone) : base(nom,  prenom,  email,  telephone)
         {
             _datePriseFonction = date;
             _listeCours = new List<Cours>();
         }
-        
+        public override string Info()
+        {
+            return _nom + " " + _prenom + ", prof, a pour email : " + _email + " et pour numéro de tel : " + _telephone + ". Il est arrivé le " + _datePriseFonction;
+        }
+
     }
     abstract class Individu
     {
@@ -145,10 +161,7 @@ namespace POO_MathiasS_Act11
             _telephone = telephone;
         }
 
-        public string Info()
-        {
-            return _nom + " " + _prenom + ", éleve, à pour email : " + _email + " et pour numéro de tel : " + _telephone + ".";
-        }
+        public abstract string Info();
     }
     internal class Cours
     {
@@ -252,6 +265,10 @@ namespace POO_MathiasS_Act11
         {
             _listeCours.Add((cours, note));
             cours.AddNote(note);
+        }
+        public override string Info()
+        {
+            return _nom + " " + _prenom + ", éleve, a pour email : " + _email + " et pour numéro de tel : " + _telephone + ". Il est arrivé le " + _dateEntree;
         }
     }
 }

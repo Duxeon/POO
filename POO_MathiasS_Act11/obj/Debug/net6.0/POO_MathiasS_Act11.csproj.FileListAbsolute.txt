@@ -1,0 +1,15 @@
+C:\Users\Duxéon\Documents\POO\POO_MathiasS_Act11\bin\Debug\net6.0\POO_MathiasS_Act11.exe
+C:\Users\Duxéon\Documents\POO\POO_MathiasS_Act11\bin\Debug\net6.0\POO_MathiasS_Act11.deps.json
+C:\Users\Duxéon\Documents\POO\POO_MathiasS_Act11\bin\Debug\net6.0\POO_MathiasS_Act11.runtimeconfig.json
+C:\Users\Duxéon\Documents\POO\POO_MathiasS_Act11\bin\Debug\net6.0\POO_MathiasS_Act11.dll
+C:\Users\Duxéon\Documents\POO\POO_MathiasS_Act11\bin\Debug\net6.0\POO_MathiasS_Act11.pdb
+C:\Users\Duxéon\Documents\POO\POO_MathiasS_Act11\obj\Debug\net6.0\POO_MathiasS_Act11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Duxéon\Documents\POO\POO_MathiasS_Act11\obj\Debug\net6.0\POO_MathiasS_Act11.AssemblyInfoInputs.cache
+C:\Users\Duxéon\Documents\POO\POO_MathiasS_Act11\obj\Debug\net6.0\POO_MathiasS_Act11.AssemblyInfo.cs
+C:\Users\Duxéon\Documents\POO\POO_MathiasS_Act11\obj\Debug\net6.0\POO_MathiasS_Act11.csproj.CoreCompileInputs.cache
+C:\Users\Duxéon\Documents\POO\POO_MathiasS_Act11\obj\Debug\net6.0\POO_MathiasS_Act11.sourcelink.json
+C:\Users\Duxéon\Documents\POO\POO_MathiasS_Act11\obj\Debug\net6.0\POO_MathiasS_Act11.dll
+C:\Users\Duxéon\Documents\POO\POO_MathiasS_Act11\obj\Debug\net6.0\refint\POO_MathiasS_Act11.dll
+C:\Users\Duxéon\Documents\POO\POO_MathiasS_Act11\obj\Debug\net6.0\POO_MathiasS_Act11.pdb
+C:\Users\Duxéon\Documents\POO\POO_MathiasS_Act11\obj\Debug\net6.0\POO_MathiasS_Act11.genruntimeconfig.cache
+C:\Users\Duxéon\Documents\POO\POO_MathiasS_Act11\obj\Debug\net6.0\ref\POO_MathiasS_Act11.dll

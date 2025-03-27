@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("POO_MathiasS_Act11")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+96d7fcce58372da96161877f3f3e3e804f4bbbe1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d932a7ba31442cfdaa950da1af6c330abc0c45d")]
 [assembly: System.Reflection.AssemblyProductAttribute("POO_MathiasS_Act11")]
 [assembly: System.Reflection.AssemblyTitleAttribute("POO_MathiasS_Act11")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
